@@ -1,7 +1,11 @@
 {
  "metadata": {
   "name": "",
-  "signature": "sha256:cfe206d39426c70fdf5afe1bebade13c349efae838d32fa0a155c64807050fee"
+<<<<<<< Updated upstream
+  "signature": "sha256:5736a46c8575ea9a8c9540ee4fd2774c587c108b371ba6e22a17901edbed85cf"
+=======
+  "signature": "sha256:b982d95e4f26e598d6e034bc3adbfaf71083fdfb4d654f11039c1e66aa3cd191"
+>>>>>>> Stashed changes
  },
  "nbformat": 3,
  "nbformat_minor": 0,
@@ -17,7 +21,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 22
+<<<<<<< Updated upstream
+     "prompt_number": 2
+=======
+     "prompt_number": 43
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -32,7 +40,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 23
+<<<<<<< Updated upstream
+     "prompt_number": 3
+=======
+     "prompt_number": 44
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -51,7 +63,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 24
+<<<<<<< Updated upstream
+     "prompt_number": 4
+=======
+     "prompt_number": 45
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -122,7 +138,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 346
+<<<<<<< Updated upstream
+     "prompt_number": 5
+=======
+     "prompt_number": 46
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -133,7 +153,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 347
+<<<<<<< Updated upstream
+     "prompt_number": 6
+=======
+     "prompt_number": 47
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -147,7 +171,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 348
+<<<<<<< Updated upstream
+     "prompt_number": 7
+=======
+     "prompt_number": 48
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "heading",
@@ -176,7 +204,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 349
+<<<<<<< Updated upstream
+     "prompt_number": 8
+=======
+     "prompt_number": 49
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -205,7 +237,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 350
+<<<<<<< Updated upstream
+     "prompt_number": 9
+=======
+     "prompt_number": 50
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -237,7 +273,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 351
+<<<<<<< Updated upstream
+     "prompt_number": 10
+=======
+     "prompt_number": 51
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -265,7 +305,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 352
+<<<<<<< Updated upstream
+     "prompt_number": 11
+=======
+     "prompt_number": 52
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -303,7 +347,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 353
+<<<<<<< Updated upstream
+     "prompt_number": 12
+=======
+     "prompt_number": 53
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "heading",
@@ -365,7 +413,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 354
+<<<<<<< Updated upstream
+     "prompt_number": 13
+=======
+     "prompt_number": 54
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "heading",
@@ -423,7 +475,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 355
+<<<<<<< Updated upstream
+     "prompt_number": 14
+=======
+     "prompt_number": 55
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "heading",
@@ -473,7 +529,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 356
+<<<<<<< Updated upstream
+     "prompt_number": 15
+=======
+     "prompt_number": 56
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "heading",
@@ -524,7 +584,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 357
+<<<<<<< Updated upstream
+     "prompt_number": 16
+=======
+     "prompt_number": 57
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -598,7 +662,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 358
+<<<<<<< Updated upstream
+     "prompt_number": 17
+=======
+     "prompt_number": 58
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -733,27 +801,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 359
-    },
-    {
-     "cell_type": "code",
-     "collapsed": false,
-     "input": [
-      "enchasseBDLexique(1,3,True)"
-     ],
-     "language": "python",
-     "metadata": {},
-     "outputs": [
-      {
-       "metadata": {},
-       "output_type": "pyout",
-       "prompt_number": 360,
-       "text": [
-        "u'<mot cat=\"N\" ms=\"MS\" vs=\"\" phon=\"kanal\">canal</mot>'"
-       ]
-      }
-     ],
-     "prompt_number": 360
+<<<<<<< Updated upstream
+     "prompt_number": 18
+=======
+     "prompt_number": 59
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -809,7 +861,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 361
+<<<<<<< Updated upstream
+     "prompt_number": 19
+=======
+     "prompt_number": 60
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "markdown",
@@ -852,7 +908,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 362
+<<<<<<< Updated upstream
+     "prompt_number": 20
+=======
+     "prompt_number": 61
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -866,13 +926,21 @@
       {
        "metadata": {},
        "output_type": "pyout",
-       "prompt_number": 363,
+<<<<<<< Updated upstream
+       "prompt_number": 21,
+=======
+       "prompt_number": 62,
+>>>>>>> Stashed changes
        "text": [
         "(u'pourcent', u'puRsa~', u'', u'', u'', u'')"
        ]
       }
      ],
-     "prompt_number": 363
+<<<<<<< Updated upstream
+     "prompt_number": 21
+=======
+     "prompt_number": 62
+>>>>>>> Stashed changes
     },
     {
      "cell_type": "code",
@@ -881,7 +949,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-     "prompt_number": 363
+<<<<<<< Updated upstream
+     "prompt_number": 21
+=======
+     "prompt_number": 62
+>>>>>>> Stashed changes
     }
    ],
    "metadata": {}
