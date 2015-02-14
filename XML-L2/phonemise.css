@@ -1,0 +1,21 @@
+body {
+	font-family: "Lucida Grande", Lucida, sans-serif;
+}
+
+tour {
+	display: block;
+	margin-bottom: 12px;
+}
+
+mot::before {content: " "}
+
+mot[cat="???"]::before, mot[cat="???"]::after {content:"***"}
+mot[cat="???"] {color: green;font-style: italic;}
+
+mot[cat="N"][ms="MS"],mot[cat="N"][ms="MP"] {color: blue;}
+mot[cat="N"][ms="FS"],mot[cat="N"][ms="FP"] {color: pink;}
+
+mot[cat="V"][vs="inf"] {color: orange;}
+
+
+
