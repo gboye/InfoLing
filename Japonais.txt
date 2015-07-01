@@ -1,0 +1,4 @@
+Consigne en texte.
+=========================
+丕:=blabla,=toto,titi,tutu
+丕:=blabla,=toto,bobo,bubu

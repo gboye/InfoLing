@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<biography>
+	<album>
+		<title>Sergent Pepper's lonely hearts club band </title>
+		<year>1967 </year>
+		<publisher>Parlophone </publisher>
+		<playlist> 
+			<music num="1">Sergent Pepper's lonely heart's club band </music>
+			<music num="2"> With a little help from my friends </music>
+			<music num="3"> Lucy in the sky with diamond </music>
+			<music num="4"> Getting better </music>
+			<music num="5"> Fixing a hole </music>
+			<music num="6"> She's leaving home </music>
+			<music num="7"> Being for the benefits of Mr. Kite </music>
+			<music num="8"> Within you without you </music>
+			<music num="9"> When I'm 64 </music>
+			<music num="10"> Lovely Rita </music>
+			<music num="11"> Good morning good morning </music>
+			<music num="12"> A day in the life </music>
+		</playlist>
+	</album>
+	<album>
+		<title> The Beatles> </title>
+		<year>1968 </year>
+		<publisher>Parlophone </publisher>
+		<playlist> 
+			<music num="1"> Back in the USSR </music>
+			<music num="2"> Dear Prudence </music>
+			<music num="3"> Glass Onion </music>
+			<music num="4"> Ob-la-di Ob-la-da </music>
+			<music num="5"> Wild honey pie </music>
+			<music num="6"> The conitnuing story of Bungalow Bill </music>
+			<music num="7"> While my guitar gently weeps </music>
+			<music num="8"> Hapiness is a warm gun </music>
+			<music num="9"> Martha my dear </music>
+			<music num="10"> I'm so tired </music>
+			<music num="11"> Blackbird </music>
+			<music num="12"> Piggies </music>
+			<music num="13"> Rocky Raccoon </music>
+			<music num="14"> Don't pass me by </music>
+			<music num="15"> Why don't we do it in the road ? </music>
+			<music num="16"> I will </music>
+			<music num="17"> Julia </music>
+			<music num="18"> Birthday </music>
+			<music num="19"> Yer Blues </music>
+			<music num="20"> Mother's nature son </music>
+			<music num="21"> Everybody has something to hide except me and my monkey </music>
+			<music num="22"> Sexy sadie </music>
+			<music num="23"> Helter Skelter </music>
+			<music num="24"> Long, long, long </music>
+			<music num="25"> Revolution 1 </music>
+			<music num="26"> Honey pie </music>
+			<music num="27"> Savoy truffle </music>
+			<music num="28"> Cry baby cry </music>
+			<music num="29"> Revolution 9 </music>
+			<music num="30"> Good night </music>
+		</playlist>
+	</album>
+	<album>
+		<title>Abbey road </title>
+		<year>1969 </year>
+		<publisher>Parlophone </publisher>
+		<playlist> 
+			<music num="1">Come together </music>
+			<music num="2"> Something </music>
+			<music num="3"> Maxwell's silver hammer </music>
+			<music num="4"> Oh darling </music>
+			<music num="5"> I want you (she's so heavy) </music>
+			<music num="6"> Here comes the sun </music>
+			<music num="7"> Because </music>
+			<music num="8"> Sun king </music>
+			<music num="9"> Mean Mr. Mustard  </music>
+			<music num="10"> Polythene Pam </music>
+			<music num="11"> She came in through the bathroom window </music>
+			<music num="12"> Golden slumbers </music>
+			<music num="13"> Carry that weight </music>
+			<music num= "14"> The end </music>
+			<music num= "15"> Her majesty </music>
+		</playlist>
+	</album>
+</biography>
