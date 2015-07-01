@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Défaut pour Cours Gilles Boyé</text>
+
+    </category>
+  </question>
+
+<!-- question: 66901  -->
+  <question type="cloze">
+    <name>
+      <text>Test</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>chats {:RX:=chat(M)-PL~%75%chat\.(M\.PL|M-PL)~%50%chat[[\(_M_\)[-.]_PL_]]~%0%--.*(&amp;&amp;chat&amp;&amp;M&amp;&amp;PL).*#il vous manque des éléments~.*#vous avez les bons éléments mais peut-être plus et/ou pas dans le bon ordre.}</p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 72459  -->
+  <question type="multichoice">
+    <name>
+      <text>TITRE</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>CONSIGNE<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>FEEDBACKGENERAL<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Votre réponse est correcte.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Votre réponse est partiellement correcte.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Votre réponse est incorrecte.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>REP1<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>REP2<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>REP3<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>REP4<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 67692  -->
+  <question type="regexp">
+    <name>
+      <text>TEST</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Quelles sont les couleurs du drapeau de la France ?<br><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <usehint>2</usehint>
+    <usecase>0</usecase>
+    <studentshowalternate>1</studentshowalternate>
+    <answer fraction="100">
+      <text>
+bleu, blanc, rouge
+      </text>
+      <feedback format="html">
+        <text>
+
+        </text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>
+[[_bleu_, _blanc_, _rouge_]]
+      </text>
+      <feedback format="html">
+        <text>
+
+        </text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[--.*(&&bleu&&blanc&&rouge).*]]>
+      </text>
+      <feedback format="html">
+        <text>
+
+        </text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
