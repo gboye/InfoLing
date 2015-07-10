@@ -1,0 +1,80 @@
+﻿Base de données pour un exercice du type :
+« Sélectionner la lecture correspondant pour cet hiragana : »
+
+く:=ku,se,i,su
+み:=mi,nu,ne,me
+ね:=ne,re,wa,su
+き:=ki,sa,tsu,mu
+す:=su,shi,u,ru
+
+
+にょ:=te,so,ra,chi
+ぷ:=te,so,ra,chi
+ちゅ:=te,so,ra,chi
+ず:=te,so,ra,chi
+びゃ:=te,so,ra,chi
+
+« Sélectionner la lecture correspondant pour ce katakana : »
+
+ク:=ku,ta,ri,ru
+ミ:=mi,se,ru,ki
+ネ:=ne,re,sa,nu
+キ:=ki,wo,mo,ke
+ス:=su,ru,ra,o
+ロ:=ro,ko,yu,wa
+ミャ:=mya,nya,myu,nyo
+
+ガ:=ga,ba,ji,go
+ピャ:=pya,bya,pyu,byu
+チョ:=cho,kyo,cha,kya
+ニョ:=nyo,myo,sha,kya
+リャ:=rya,kya,ryu,kyu
+ビュ:=byu,pyu,shu,ju
+
+
+
+Base de données pour un exercice du type :
+
+« Sélectionner la ou les lecture(s) correspondante(s) pour ce kanji : »
+
+Leçon 1
+
+日:=ひ,=び,=ニチ,=〜か
+
+月:=つき,=ガツ,=ゲツ,つぎ
+月:=つき,=ガツ,=ゲツ,ひ
+月:=つき,=ガツ,=ゲツ,ゲシ
+
+木:=き,=モク,=ボク,きん
+木:=き,=モク,=ボク,ぎん
+木:=き,=モク,=ボク,ゾク
+
+山:=やま,=サン,セン,ゼン
+山:=やま,=サン,セン,たま
+山:=やま,=サン,セン,さま
+
+川:=かわ,かれ,セン,ゼン
+川:=かわ,やま,セン,テン
+川:=かわ,まわ,セイ,ゼイ
+
+
+
+Leçon 2
+
+
+火:=ひ,=び,=カ,シ
+火:=ひ,=び,=カ,ジ
+火:=ひ,=び,=カ,り
+
+水:=みず,=スイ,みす,セイ
+水:=みず,=スイ,スウ,セン
+水:=みず,=スイ,ジョウ,かわ
+
+金:=かね,=キン,ジン,かれ
+金:=かね,=キン,さき,シ
+金:=かね,=キン,ジン,つち
+
+土:=つち,=ド,ジ,じ
+土:=つち,=ド,ち,し
+土:=つち,=ド,も,ドウ
+
