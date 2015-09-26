@@ -1,5 +1,5 @@
 ﻿Base de données pour un exercice du type :
-« Sélectionner la lecture correspondant pour chaque hiragana »
+« Sélectionner la lecture correspondant pour cet hiragana »
 
 く:=ku,se,i,su
 み:=mi,nu,ne,me
@@ -64,7 +64,7 @@
 ず:=te,so,ra,chi
 びゃ:=te,so,ra,chi
 
-« Sélectionner la lecture correspondant pour chaque katakana »
+« Sélectionner la lecture correspondant pour ce katakana »
 
 ク:=ku,ta,ri,ru
 ミ:=mi,se,ru,ki
@@ -132,7 +132,7 @@
 
 Base de données pour un exercice du type :
 
-« Sélectionner la ou les lecture(s) correspondante(s) pour chaque kanji »
+« Sélectionner la ou les lecture(s) correspondante(s) pour ce kanji »
 
 Leçon 1
 
